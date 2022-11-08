@@ -20,8 +20,6 @@ document.querySelectorAll('.navbar a').forEach(link =>{
       document.querySelector('.navbar-img img').src = 'images/nav-img-1.jpg';
    };
 
-
-   
 });
 
 let navbar = document.querySelector('.navbar');
